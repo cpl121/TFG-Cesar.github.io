@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560707800106,
+  "timestamp": 1560803244996,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d563d1708ae718f0542f.js",
+        "/main.06d519669bdb7b27106d.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.3ff695c00d717f2d2a11.css"
@@ -23,6 +23,13 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/capitulos/0/compOffline.png",
+        "/assets/capitulos/0/compOnline.png",
+        "/assets/capitulos/2/badCheckNpm.png",
+        "/assets/capitulos/2/npmI.png",
+        "/assets/capitulos/2/npmVersion.png",
+        "/assets/capitulos/2/nuevaTerminal.png",
+        "/assets/capitulos/3/ngVersion.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -37,6 +44,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/capitulos/0/compOffline.png": "25ca94748a70408c8de1440a1ad234b78f7328f2",
+    "/assets/capitulos/0/compOnline.png": "b5972d941ed57dc7dce5ac2c6297aa6cac72ebc2",
+    "/assets/capitulos/2/badCheckNpm.png": "b71df7932c1a970928baba269883cb4adade11a4",
+    "/assets/capitulos/2/npmI.png": "a4b5727834ff92e2bec2418278d61b6a783e112b",
+    "/assets/capitulos/2/npmVersion.png": "f8741efe980d43e727fb0086e67e04bde79c9617",
+    "/assets/capitulos/2/nuevaTerminal.png": "c4e01d7ea0c79400d342fb56930c78c1ad2ae255",
+    "/assets/capitulos/3/ngVersion.png": "9764dc33c785da75db28fa9b05ed41d32b9728d9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -47,8 +61,8 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "133ee27724459190d90fcbda6f8c3254f438f82e",
-    "/main.d563d1708ae718f0542f.js": "160faf76f6670fd3cc47ce9c6bdafcc46ca98419",
+    "/index.html": "8a33c57271a24a39a66a035a135de9e6cc163399",
+    "/main.06d519669bdb7b27106d.js": "8f2da08435cec042df0d6f5935cce04f75dd1ed2",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
