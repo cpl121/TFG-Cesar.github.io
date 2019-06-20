@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560976794128,
+  "timestamp": 1561057178357,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/favicon.ico",
         "/index.html",
-        "/main.a3a8d1ca28d64c3a6e91.js",
+        "/main.feecbd529790b4fa53f9.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.3ff695c00d717f2d2a11.css"
@@ -25,6 +25,8 @@
       "urls": [
         "/assets/capitulos/0/compOffline.png",
         "/assets/capitulos/0/compOnline.png",
+        "/assets/capitulos/1/extensiones.png",
+        "/assets/capitulos/1/icons.png",
         "/assets/capitulos/2/badCheckNpm.png",
         "/assets/capitulos/2/npmI.png",
         "/assets/capitulos/2/npmVersion.png",
@@ -38,6 +40,17 @@
         "/assets/capitulos/3/packJson.png",
         "/assets/capitulos/3/quest.png",
         "/assets/capitulos/3/route.png",
+        "/assets/capitulos/4/assets.png",
+        "/assets/capitulos/4/botonCSS.png",
+        "/assets/capitulos/4/botonHTML.png",
+        "/assets/capitulos/4/enlace.png",
+        "/assets/capitulos/4/imageAngular.png",
+        "/assets/capitulos/4/imageRoute.png",
+        "/assets/capitulos/4/parrafoCSS.png",
+        "/assets/capitulos/4/parrafoInline.png",
+        "/assets/capitulos/4/pwa.png",
+        "/assets/capitulos/4/pwaRoute.png",
+        "/assets/capitulos/4/titulos.png",
         "/assets/capitulos/5/angular.png",
         "/assets/capitulos/5/compiled.png",
         "/assets/capitulos/5/fullLoad.png",
@@ -74,7 +87,8 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagenPWA/pwa.png"
       ],
       "patterns": []
     }
@@ -83,6 +97,8 @@
   "hashTable": {
     "/assets/capitulos/0/compOffline.png": "25ca94748a70408c8de1440a1ad234b78f7328f2",
     "/assets/capitulos/0/compOnline.png": "b5972d941ed57dc7dce5ac2c6297aa6cac72ebc2",
+    "/assets/capitulos/1/extensiones.png": "b94007551c08069a099339c22d2cf70c8ce75972",
+    "/assets/capitulos/1/icons.png": "9c0e60f96a0fc5dee573eb3e8840d7edb5dce807",
     "/assets/capitulos/2/badCheckNpm.png": "b71df7932c1a970928baba269883cb4adade11a4",
     "/assets/capitulos/2/npmI.png": "a4b5727834ff92e2bec2418278d61b6a783e112b",
     "/assets/capitulos/2/npmVersion.png": "f8741efe980d43e727fb0086e67e04bde79c9617",
@@ -96,6 +112,17 @@
     "/assets/capitulos/3/packJson.png": "5c63d0f75e08fa33c4cff70dfe2a070d8b534ee9",
     "/assets/capitulos/3/quest.png": "41f95623c3a7aa056342b81ef3b07e7ffbf169c0",
     "/assets/capitulos/3/route.png": "1a7a85db564efe4a90e986207d2ae6746a2598f6",
+    "/assets/capitulos/4/assets.png": "236ad5bc01cc7c56c5e4682fda13e1115ca44cf9",
+    "/assets/capitulos/4/botonCSS.png": "54b0c2310fb203d307410ff1196e96ecdf05aad1",
+    "/assets/capitulos/4/botonHTML.png": "110db3719c9c26ec3ffbdcca473e5aad4f8f3a8d",
+    "/assets/capitulos/4/enlace.png": "af701c4257a0a75c0623a11488c136b7d87bbe6a",
+    "/assets/capitulos/4/imageAngular.png": "f4d83a85f6ebca34ef24b2becd36418e5f2a4db8",
+    "/assets/capitulos/4/imageRoute.png": "dc145d10d07a14e57f05853a8907b278df8a7eb2",
+    "/assets/capitulos/4/parrafoCSS.png": "c403c6896c870a12dfe6365e70025c2f8b0443c8",
+    "/assets/capitulos/4/parrafoInline.png": "a89e640a0ccfc6c8254413ae85465f64ad030986",
+    "/assets/capitulos/4/pwa.png": "e427b251db094d4db36f05f0400cca51300f02bd",
+    "/assets/capitulos/4/pwaRoute.png": "819ce9a03cbb450ed42a79e21346ff5c2bedf1c2",
+    "/assets/capitulos/4/titulos.png": "72b809fb6c2298f49f63c2370712230abd22ce3f",
     "/assets/capitulos/5/angular.png": "99f602f143f2183c63c2bd69647638af91934b5a",
     "/assets/capitulos/5/compiled.png": "37de247ab3bb4ac76341f1858abdf0938a5550e1",
     "/assets/capitulos/5/fullLoad.png": "a3a05a7f9798f00e9c8952632869172f1b19bd50",
@@ -133,10 +160,11 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/imagenPWA/pwa.png": "e427b251db094d4db36f05f0400cca51300f02bd",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "931c8afd2a1d024f914768e8091b62ea156c66be",
-    "/main.a3a8d1ca28d64c3a6e91.js": "c29b858b495987c031654c0a579edb2f34445c73",
+    "/index.html": "a83b938552d8ec0b0de2f6ad9a7acac81d83fb21",
+    "/main.feecbd529790b4fa53f9.js": "f2e118897c5e0f49e4c1bebb6e978ce784828276",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
