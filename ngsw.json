@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561580230555,
+  "timestamp": 1561580389616,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
         "/main.21f4dec0ef723bdae03a.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
-        "/styles.e37efa7073e07112b14a.css"
+        "/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -198,12 +198,12 @@
     "/assets/imagenPWA/norway.jpg": "ba3424c6f5fa49f66100c2baa64472344a593166",
     "/assets/imagenPWA/pwa.png": "e427b251db094d4db36f05f0400cca51300f02bd",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
-    "/index.html": "e817ba5d0d76aa18ffacbe503a7f27f82d8d607e",
+    "/index.html": "a19936885959942fc4bae850b086233d42ec6c5c",
     "/main.21f4dec0ef723bdae03a.js": "f7717bd24bc6d125a93fab5b3b540fde27e98598",
     "/norway.bbc0af752f47c89d82f4.jpg": "ba3424c6f5fa49f66100c2baa64472344a593166",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.e37efa7073e07112b14a.css": "f510cda71b5fd1eab0cd956f4d169e9608b70c5f"
+    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
