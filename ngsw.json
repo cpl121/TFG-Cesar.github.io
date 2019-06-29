@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561745187556,
+  "timestamp": 1561816020922,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/favicon.ico",
         "/index.html",
-        "/main.53f05b2943b20d152235.js",
+        "/main.e774e87bcbee78bc011f.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
-        "/styles.3ff695c00d717f2d2a11.css"
+        "/styles.e37efa7073e07112b14a.css"
       ],
       "patterns": []
     },
@@ -200,12 +200,12 @@
     "/assets/imagenPWA/pwa.png": "e427b251db094d4db36f05f0400cca51300f02bd",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "678b8ca1f41bdad4f8781895b9e8618143a03817",
-    "/index.html": "c5a6a3219dc38e9248d9c692978fa9b2f4e1ad59",
-    "/main.53f05b2943b20d152235.js": "e1bc94369b62be658b762b8f981819aa5477e7a8",
+    "/index.html": "ff9d9145478e2326e5efc163acb25cfdb893a0e5",
+    "/main.e774e87bcbee78bc011f.js": "f7ec4f2ebd0625816b47552e8a3b521781d2aa06",
     "/norway.bbc0af752f47c89d82f4.jpg": "ba3424c6f5fa49f66100c2baa64472344a593166",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/styles.e37efa7073e07112b14a.css": "f510cda71b5fd1eab0cd956f4d169e9608b70c5f"
   },
   "navigationUrls": [
     {
